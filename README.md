@@ -18,5 +18,4 @@ You may also see any lint errors in the console.
 
 App creates random landscape or potrait images between 100 to 500 count.\
 When user click a image,it pops up and overlays to screen.\
-
 If user click again after overlay popup, it disappears
