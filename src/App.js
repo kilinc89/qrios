@@ -26,6 +26,7 @@ function App() {
       urlList.push({ url, title: Math.floor(Math.random() * 2) === 0 ? "Portrait" : "Landscape" });
 
     }
+
     return urlList;
   }
 
