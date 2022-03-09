@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `summary`
 
-App created random landscape or potrait image between 100 to 500 
-When user click a image image pop up and overlay to screen max-width:600 px
+App creates random landscape or potrait images between 100 to 500 count.\
+When user click a image,it pops up and overlays to screen.\
 
-when user click again after overlay popup, it disappears
+If user click again after overlay popup, it disappears
